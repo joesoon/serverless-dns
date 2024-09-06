@@ -52,6 +52,7 @@ routes = [
 LOG_LEVEL = "info"
 WORKER_ENV = "production"
 CLOUD_PLATFORM = "cloudflare"
+CF_DNS_RESOLVER_URL = "https://dns10.quad9.net/dns-query"
 
 ##################
 #------ONE-------#
